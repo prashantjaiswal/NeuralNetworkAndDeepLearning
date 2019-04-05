@@ -1,6 +1,6 @@
 # NeuralNetworkAndDeepLearning
 
-#Week 2 
+# Week 2 
 Build a logistic regression model, structured as a shallow neural network
 Implement the main steps of an ML algorithm, including making predictions, derivative computation, and gradient descent.
 Implement computationally efficient, highly vectorized, versions of models.
@@ -9,4 +9,4 @@ Become familiar with Python and Numpy
 Work with iPython Notebooks
 Be able to implement vectorization across multiple training examples
 
-#Week 3
+# Week 3
